@@ -40,3 +40,4 @@ Side note: Enhancers are functions that enhance the Redux store with third-party
 Redux creates a place where information can be viewed/manipulated from any component. Redux scales with your project, allowing you to focus on new functionality rather than bugs from passing state through a large component tree. 
 
 For more reasons why you may/may not want to use Redux, read the following article: https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367
+# react-redux-application
